@@ -1,0 +1,12 @@
+{
+  "name": "xlsxassignment",
+  "version": "1.0.0",
+  "description": "assignment for software engineer intern",
+  "main": "app.js",
+  "author": "Siddhant Deshmukh",
+  "license": "MIT",
+  "dependencies": {
+    "xlsx": "^0.18.5"
+  },
+  "type": "module"
+}
